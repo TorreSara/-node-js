@@ -1,0 +1,76 @@
+const profesion = {
+    empleo1:{
+        nombre:"desarrollador",
+        cargo:"testing",
+        salario:100000,
+        importancia:"alto",
+        estado:0
+    },
+    empleo2:{
+        nombre:"operario",
+        cargo:"ingeniero",
+        salario:10000,
+        importancia:"baja",
+        estado:1
+    },
+    empleo3:{
+        nombre:"desarrollador",
+        cargo:"ingeniero",
+        salario:50000,
+        importancia:"alta",
+        estado:0
+    },
+    empleo4:{
+        nombre:"odontologa",
+        cargo:"estirilizacion",
+        salario:40000,
+        importancia:"alta",
+        estado:0
+    },
+    empleo5:{
+        nombre:"portero",
+        cargo:"sela",
+        salario:7000,
+        importancia:"alta",
+        estado:0
+    },
+    empleo6:{
+        nombre:"docente",
+        cargo:"licenciada",
+        salario:50000,
+        importancia:"alta",
+        estado:0
+    },
+    empleo7:{
+        nombre:"creador de contenido",
+        cargo:"influencer",
+        salario:40000,
+        importancia:"baja",
+        estado:1
+    },
+    empleo8:{
+        nombre:"desarrollador",
+        cargo:"testing",
+        salario:40000,
+        importancia:"alta",
+        estado:0
+    },
+    empleo9:{
+        nombre:"enfermera",
+        cargo:"auxiliar",
+        salario:20000,
+        importancia:"alta",
+        estado:1
+    },
+    empleo10:{
+        nombre:"brigadista",
+        cargo:"rescate",
+        salario:3000,
+        importancia:"baja",
+        estado:1
+
+    }
+}
+
+
+module.exports = profesion
